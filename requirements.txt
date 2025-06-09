@@ -1,0 +1,9 @@
+fastapi==0.110.3
+uvicorn==0.30.6
+transformers==4.46.0
+torch==2.4.1
+torchvision==0.19.1
+peft==0.12.0
+pydantic==2.9.2
+python-dotenv==1.0.1
+numpy>=2.0.0,<2.3.0
